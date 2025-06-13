@@ -24,7 +24,7 @@
 
 ### 🔗 Connect with me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/mandalprashant52" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
   </a>
@@ -62,6 +62,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandalprashant12&theme=radical" alt="GitHub Streak" />
 </p>
+
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mandalprashant12&area=true&hide_border=true&theme=github-compact&hide_title=true&bg_color=00000000)](https://github.com/bsoc-bitbyte/Exam-Bud)
 
 ---
 
