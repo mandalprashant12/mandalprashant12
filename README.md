@@ -26,10 +26,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/mandalprashant52" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+    <img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="https://instagram.com/prashaant.exe" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" height="30" width="30" />
+    <img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg" alt="Instagram" height="30" width="30" />
   </a>
 </p>
 
